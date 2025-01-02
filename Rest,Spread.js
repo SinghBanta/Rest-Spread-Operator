@@ -5,7 +5,7 @@ let students = {
     hobbies: ["reading", "coding", "playing", "sleeping"],
 };
 
-const {...value} = students; 
+// const {...value} = students; 
 // console.log(value);
 
 // Using spread operator to copy the values of students object.
